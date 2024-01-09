@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is James Wilkinson
 =======================================================================================================================================
 
-Experienced Front-End Developer
+Experienced Front-End & UX/UI Developer
 -------------------------------
 
 I've been developing for over 15 years and most recently have been growing the skills of the teams I work with through training, long-term planning, introducing new tooling, and code reviews.
 
 * 🌍  I'm based in Toronto, Canada
-* 🖥️  See my portfolio at [My Portfolio](http://jerw.ca)
-* 🧠  I'm learning Tailwind CSS, React Testing Library, xState
-* 🤝  I'm open to collaborating on conference organization
+* 🖥️  See my portfolio [here](http://jerw.ca)
+* 🧠  I'm learning Stencil.js, Components in Figma
 
 ### Skills
 
