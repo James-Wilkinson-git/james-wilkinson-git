@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Experienced Front-End & UX/UI Developer
 -------------------------------
 
-I've been developing for over 15 years and most recently have been growing the skills of the teams I work with through training, long-term planning, introducing new tooling, and code reviews.
+I have acquired over 16 years of experience in software development, specializing in enhancing the capabilities of the teams I collaborate with. My role encompasses providing training, formulating long-term strategies, implementing new tools, and conducting code reviews to facilitate continuous growth and improvement.
 
 * 🌍  I'm based in Toronto, Canada
 * 🖥️  See my portfolio [here](http://jerw.ca)
